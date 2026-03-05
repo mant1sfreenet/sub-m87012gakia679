@@ -1,3 +1,0 @@
-# profile-title: Prosto VPN
-# Announce: URA 
-# Subscription-Userinfo: upload=10; download=40; total=500
